@@ -7,21 +7,17 @@ This repository contains a complete Exploratory Data Analysis (EDA), data cleani
 
 ## 📁 Project Structure
 
+```
 JCMDATAMOVIES/
-│
 ├── Data/
-│ ├── raw/ # Raw CSV files (original datasets)
-│ │ └── imdb_top_1000.csv
-│ └── processed/ # Cleaned dataset ready for analysis
-│   └── cleaned_imdb_top_1000.csv
-│
+│   ├── raw/              # Raw CSV files (original datasets)
+│   │   └── imdb_top_1000.csv
+│   ├── processed/        # Cleaned dataset ready for analysis
+│   │   └── cleaned_imdb_top_1000.csv
 ├── Notebooks/
-│ └── EDA.ipynb # Jupyter Notebook with complete exploratory analysis
-│
-│
-│── README.md
-
-
+│   └── EDA.ipynb         # Jupyter Notebook with complete exploratory analysis
+└── README.md
+```
 
 ---
 
